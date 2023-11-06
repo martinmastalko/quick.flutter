@@ -15,7 +15,7 @@ dependencies:
   libusb: 
     git:  
       url: https://github.com/correaignacio/libusb.dart
-      ref: a770d1a3d16069fe7a84480e790a91f2e4ed6ae5
+      ref: e8db6c108675d65fe3e8cd8fc86553f415f150ce
   ffi: ^2.0.1
 
 dev_dependencies:
